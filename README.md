@@ -161,7 +161,7 @@ A modern and interactive developer portfolio showcasing projects, skills, and te
 
 🌐 Portfolio: **https://thinesh-portfolio-ten.vercel.app/**
 
-💼 LinkedIn: https://www.linkedin.com/in/thinesh-rama-598012418/?skipRedirect=true
+💼 LinkedIn: www.linkedin.com/in/thinesh-rama-598012418
 
 
 
